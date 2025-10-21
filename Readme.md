@@ -47,4 +47,4 @@ https://diallomoahamed.github.io/Testimonial_page/
 
 ### Format Mobile :
 
-![alt text](<Capture d’écran 2025-10-21 à 04.47.42.png>)
+![alt text](<Capture d’écran 2025-10-21 à 04.47.42.png>)
