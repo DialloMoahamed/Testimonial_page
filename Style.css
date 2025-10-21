@@ -71,6 +71,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 1em;
+    line-height: 1.6;
 }
 .info_text h3 {
     color: #333;
@@ -253,7 +254,7 @@ body {
   background-color: white;
   border-radius: 15px;
   padding: 2em;
-  width: 35%;
+  width: 32%;
   border-inline-start: solid 4px  #C78941;
 }
 
