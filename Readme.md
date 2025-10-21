@@ -31,7 +31,9 @@ Ce projet permet de renforcer la maîtrise des bases du développement web tout 
 J'ai beaucoup appris sur ce projet parce que ça m'a permis de maîtriser les grid et comment les rendres responsives
 
 
-## Lien Github Page
+## Lien Github Page :
+
+https://diallomoahamed.github.io/Testimonial_page/
 
 # Capture du projet 
 
