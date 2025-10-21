@@ -39,12 +39,12 @@ https://diallomoahamed.github.io/Testimonial_page/
 
 ### Format Desktop :
 
-![alt text](<Capture d’écran 2025-10-21 à 04.43.55.png>)
+![alt text](<images/Format Desktop.png>)
 
 ### Format Tablette : 
 
-![alt text](<Capture d’écran 2025-10-21 à 04.45.24.png>)
+![alt text](<images/Format Tablette.png>)
 
 ### Format Mobile :
 
-![alt text](<Capture d’écran 2025-10-21 à 04.47.42.png>)
+![alt text](<images/Format Mobile.png>)
